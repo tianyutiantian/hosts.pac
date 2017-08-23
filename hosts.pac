@@ -1,9 +1,4 @@
-/**
- * hosts.pac
- * @authors Jack.Chan
- * @date    2015-09-23 14:58:50
- * @update  2015-09-24 13:50:26
- */
+
 
 // config (1: enabled | 0: disabled)
 var config = {
@@ -337,6 +332,7 @@ var blackList = [
 	{domain:'gridsumdissector.com'},
 	{domain:'nfdnserror14.wo.com.cn'},
 	{domain:'cookiemapping.wrating.com'}
+	{domain:'ikankanwu.com'}
 ];
 
 // whiteList (root domain) for block digital domain
